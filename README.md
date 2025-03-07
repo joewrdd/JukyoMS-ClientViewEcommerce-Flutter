@@ -275,7 +275,7 @@ lib/
 
 ## Youtube Link For Demo Of The App
 
-[Watch The Demo On YouTube](https://www.youtube.com/wrd70z)
+[Watch The Demo On YouTube](https://youtube.com/shorts/kTMkjgB8FL8?)
 
 ## Contributing
 
