@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      flutter_gen|flutter_assets:
+        options:
+          enabled: true

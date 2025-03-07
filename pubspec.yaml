@@ -1,0 +1,132 @@
+name: jukyo_ms
+description: "Jukyo Multi-Store Mall."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.3.0
+  intl: ^0.20.2
+  logger: ^2.5.0
+  url_launcher: ^6.3.1
+  get: ^4.6.5
+  get_storage: ^2.1.1
+  firebase_storage: ^12.4.2
+  connectivity_plus: ^6.1.2
+  iconsax: ^0.0.8
+  lottie: ^3.3.1
+  flutter_native_splash: ^2.4.4
+  smooth_page_indicator: ^1.2.0+3
+  carousel_slider: ^5.0.0
+  readmore: ^3.0.0
+  flutter_rating_bar: ^4.0.1
+  firebase_core: ^3.12.0
+  firebase_auth: ^5.5.0
+  cloud_firestore: ^5.6.4
+  google_sign_in: ^6.2.2
+  google_fonts: ^6.2.1
+  shimmer: ^3.0.0
+  image_picker: ^1.1.2
+  cached_network_image: ^3.4.1
+  image_cropper: ^9.0.0
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_gen: ^5.3.0
+  build_runner: ^2.4.8
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logos/lightlogo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/logos/
+    - assets/icons/brands/
+    - assets/images/content/
+    - assets/images/banners/
+    - assets/images/banners/banner10.jpg
+    - assets/images/reviews/
+
+    - assets/images/products/
+    - assets/images/products/Adidas/Campus00sSemiLucidBlue/
+    - assets/images/products/Adidas/SteelStrawMetalBottle/
+    - assets/images/products/Adidas/CityExplorerBackpack/
+    - assets/images/products/Adidas/UCLCompetition2425KnockoutPhaseBall/
+    - assets/images/products/Apple/Iphone 16 Pro/
+    - assets/images/products/FunkoPop/AstaWithNero/
+    - assets/images/products/FunkoPop/ChrolloLucilfer/
+    - assets/images/products/FunkoPop/SasukeUchiha/
+    - assets/images/products/FunkoPop/Gojo Satoru/
+    - assets/images/products/New Balance/NewBalance530WhiteBlue/
+    - assets/images/products/New Balance/47CleanUpUltimateRunHat/
+    - assets/images/products/New Balance/SportEssentialsFleeceJogger/
+    - assets/images/products/Nike/BlackNikeAirVaporMax2023Flyknit/
+    - assets/images/products/Nike/WhiteNikeAirVaporMax2023Flyknit/
+    - assets/images/products/Nike/Nike Air Force 1 07 GB/
+    - assets/images/products/Nike/Nike Air Force 1 07 RB/
+    - assets/images/products/Nike/NikeAirZoomSpiridonCage2/
+    - assets/images/products/Nike/NikeDunkLowBlackGreyGum/
+    - assets/images/products/Nike/NikeDunkLowPaleIvorLightOrewoodBrown/
+    - assets/images/products/Nike/NikeDunkLowRetroSE/
+    - assets/images/products/Nike/WhiteNikeAirVaporMax2023Flyknit/
+    - assets/images/products/Nike/ChelseaFCClassic99Cap/
+    - assets/images/products/Nike/NikexNoctaJerseySweatshirt/
+    - assets/images/products/Nike/NikeAirSport2GolfBag/
+    - assets/images/products/Pokemon/CharizardPlush/
+    - assets/images/products/Pokemon/Pokémon TCG Scarlet & Violet-Journey Together Pokémon Center Elite Trainer Box/
+    - assets/images/products/Razer/Razer BlackWidow V4 Pro 75/
+    - assets/images/products/Satechi SM1 75%/
+    - assets/images/products/Zara/CrochetJacquardJacket/
+    - assets/images/products/Zara/QuarterZipHoodie/
+    - assets/images/products/Zara/RelaxedFitFadedJeans/
+    - assets/images/products/Pandora/DisneyPrincessRapunzelTiaraRing/
+    - assets/images/products/Pandora/CelestialBlueSparklingMoonRing/
+    - assets/images/products/Ikea/2SeatSofaKnisa/
+    - assets/images/products/Ikea/CharcoalGrill/
+    - assets/images/products/Under Armour/MensUAPro6SeriesCatchingKit/
+    - assets/images/products/TheNorthFace/Terra40/
+    - assets/images/products/TheNorthFace/Chaos2Tent/
+    - assets/images/products/Petco/PurinaProPlanShreddedBlendChickenAndRiceDryDogFood/
+    - assets/images/products/Sephora/MakeUpByMario/
+
+    - assets/icons/categories/
+    - assets/images/animations/
+    - assets/icons/payment_methods/
+    - assets/images/on_boarding_images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 800

@@ -1,0 +1,4 @@
+enum ProductType {
+  single,
+  variable,
+}

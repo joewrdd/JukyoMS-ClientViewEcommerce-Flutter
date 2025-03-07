@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "550743810296",
+    "project_id": "jukyo-mall",
+    "storage_bucket": "jukyo-mall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550743810296:android:76b4a1c7a60ff689471b0d",
+        "android_client_info": {
+          "package_name": "com.example.jukyo_ms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550743810296-9li23bo1ha4es3p63bq95am47u0nd65r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jukyo_ms",
+            "certificate_hash": "caef232ab91d590ceff7be8d1f9e40fd74e5d56e"
+          }
+        },
+        {
+          "client_id": "550743810296-t19cnb6vlqsiig4njhm6m9jq3rvna013.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa61ejidDM9-W0e6MlVifk8cF8PBFrNIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550743810296-t19cnb6vlqsiig4njhm6m9jq3rvna013.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550743810296-4n6pos400uvd0c83ntub27mps2gsi7ll.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jukyoMs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
