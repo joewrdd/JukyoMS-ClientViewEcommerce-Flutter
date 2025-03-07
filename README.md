@@ -145,8 +145,8 @@ lib/
     <div style="flex: 2; padding: 10px;">
       <p><strong>OnBoarding Screen (Light & Dark)</strong></p>
       <div style="display: flex; gap: 10px;">
-        <img src="screenshots/light/onboardingL.png" width="250" alt="OnBoarding Light"/>
-        <img src="screenshots/dark/onboardingD.png" width="250" alt="OnBoarding Dark"/>
+        <img src="lib/screenshots/light/onboardingL.png" width="250" alt="OnBoarding Light"/>
+        <img src="lib/screenshots/dark/onboardingD.png" width="250" alt="OnBoarding Dark"/>
       </div>
     </div>
     <!-- Login Screen -->
@@ -154,8 +154,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Login Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/loginL.png" width="250" alt="Login Light"/>
-          <img src="screenshots/dark/loginD.png" width="250" alt="Login Dark"/>
+          <img src="lib/screenshots/light/loginL.png" width="250" alt="Login Light"/>
+          <img src="lib/screenshots/dark/loginD.png" width="250" alt="Login Dark"/>
         </div>
       </div>
     </div>
@@ -164,8 +164,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>SignUp Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/signupL.png" width="250" alt="SignUp Light"/>
-          <img src="screenshots/dark/signupD.png" width="250" alt="SignUp Dark"/>
+          <img src="lib/screenshots/light/signupL.png" width="250" alt="SignUp Light"/> 
+          <img src="lib/screenshots/dark/signupD.png" width="250" alt="SignUp Dark"/>
         </div>
       </div>
     </div>
@@ -173,9 +173,9 @@ lib/
     <div style="display: flex; align-items: flex-start; margin-top: 20px;">
       <div style="flex: 2; padding: 10px;">
         <p><strong>Home Screen (Light & Dark)</strong></p>
-        <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/homeL.png" width="250" alt="Home Light"/>
-          <img src="screenshots/dark/homeD.png" width="250" alt="Home Dark"/>
+        <div style="display: flex; gap:     10px;">
+          <img src="lib/screenshots/light/homeL.png" width="250" alt="Home Light"/>
+          <img src="lib/screenshots/dark/homeD.png" width="250" alt="Home Dark"/>
         </div>
       </div>
     </div>
@@ -184,8 +184,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Product Details Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/product_details_light.png" width="250" alt="Product Details Light"/>
-          <img src="screenshots/product_details_dark.png" width="250" alt="Product Details Dark"/>
+          <img src="lib/screenshots/light/product_details_light.png" width="250" alt="Product Details Light"/>
+          <img src="lib/screenshots/dark/product_details_dark.png" width="250" alt="Product Details Dark"/>
         </div>
       </div>
     </div>
@@ -194,8 +194,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Store Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/storeL.png" width="250" alt="Store Light"/>
-          <img src="screenshots/dark/storeD.png" width="250" alt="Store Dark"/>
+          <img src="lib/screenshots/light/storeL.png" width="250" alt="Store Light"/>
+          <img src="lib/screenshots/dark/storeD.png" width="250" alt="Store Dark"/>
         </div>
       </div>
     </div>
@@ -204,8 +204,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Cart Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/cartL.png" width="250" alt="Cart Light"/>
-          <img src="screenshots/dark/cartD.png" width="250" alt="Cart Dark"/>
+          <img src="lib/screenshots/light/cartL.png" width="250" alt="Cart Light"/>
+          <img src="lib/screenshots/dark/cartD.png" width="250" alt="Cart Dark"/>
         </div>
       </div>
     </div>
@@ -214,8 +214,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Wishlist Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/wishlistL.png" width="250" alt="Wishlist Light"/>
-          <img src="screenshots/dark/wishlistD.png" width="250" alt="Wishlist Dark"/>
+          <img src="lib/screenshots/light/wishlistL.png" width="250" alt="Wishlist Light"/>
+          <img src="lib/screenshots/dark/wishlistD.png" width="250" alt="Wishlist Dark"/>
         </div>
       </div>
     </div>
@@ -224,8 +224,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Profile Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/profileL.png" width="250" alt="Profile Light"/>
-          <img src="screenshots/dark/profileD.png" width="250" alt="Profile Dark"/>
+          <img src="lib/screenshots/light/profileL.png" width="250" alt="Profile Light"/>
+          <img src="lib/screenshots/dark/profileD.png" width="250" alt="Profile Dark"/>
         </div>
       </div>
     </div>
@@ -234,8 +234,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Profile Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/cprofileL.png" width="250" alt="Profile Light"/>
-          <img src="screenshots/dark/cprofileD.png" width="250" alt="Profile Dark"/>
+          <img src="lib/screenshots/light/cprofileL.png" width="250" alt="Profile Light"/>
+          <img src="lib/screenshots/dark/cprofileD.png" width="250" alt="Profile Dark"/>
         </div>
       </div>
     </div>
@@ -244,8 +244,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Checkout Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/checkoutL.png" width="250" alt="Checkout Light"/>
-          <img src="screenshots/dark/checkoutD.png" width="250" alt="Checkout Dark"/>
+          <img src="lib/screenshots/light/checkoutL.png" width="250" alt="Checkout Light"/>
+          <img src="lib/screenshots/dark/checkoutD.png" width="250" alt="Checkout Dark"/>
         </div>
       </div>
     </div>
@@ -254,8 +254,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Sub Categories Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/subcategoriesL.png" width="250" alt="Sub Categories Light"/>
-          <img src="screenshots/dark/subcategoriesD.png" width="250" alt="Sub Categories Dark"/>
+          <img src="lib/screenshots/light/subcategoriesL.png" width="250" alt="Sub Categories Light"/>
+          <img src="lib/screenshots/dark/subcategoriesD.png" width="250" alt="Sub Categories Dark"/>
         </div>
       </div>
     </div>
@@ -264,8 +264,8 @@ lib/
       <div style="flex: 2; padding: 10px;">
         <p><strong>Address Screen (Light & Dark)</strong></p>
         <div style="display: flex; gap: 10px;">
-          <img src="screenshots/light/addressL.png" width="250" alt="Address Light"/>
-          <img src="screenshots/dark/addressD.png" width="250" alt="Address Dark"/>
+          <img src="lib/screenshots/light/addressL.png" width="250" alt="Address Light"/>
+          <img src="lib/screenshots/dark/addressD.png" width="250" alt="Address Dark"/>
         </div>
       </div>
     </div>
