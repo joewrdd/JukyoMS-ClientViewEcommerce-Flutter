@@ -1,6 +1,6 @@
 # JukyoMS - Flutter E-commerce App
 
-A modern and feature-rich e-commerce mobile application built with Flutter and Firebase, offering a seamless shopping experience with robust user management and product handling capabilities. (Admin Panel In 2 Days...Stay Tuned)
+A modern and feature-rich e-commerce mobile application built with Flutter and Firebase, offering a seamless shopping experience with robust user management and product handling capabilities.
 
 ## Features
 
@@ -276,6 +276,8 @@ lib/
 ## Youtube Link For Demo Of The App
 
 [Watch The Demo On YouTube](https://youtube.com/shorts/kTMkjgB8FL8?)
+
+## Web URL For Testing
 
 ## Contributing
 
